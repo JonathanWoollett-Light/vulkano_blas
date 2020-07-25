@@ -1,0 +1,22 @@
+[package]
+name = "vulkano_blas"
+version = "0.1.0"
+authors = ["Jonathan Woollett-Light <jonathanwoollettlight@gmai.com>"]
+edition = "2018"
+description = "GLSL Vulkano shaders for BLAS operations."
+license = "Apache-2.0"
+exclude = ["tests"]
+
+repository = "https://github.com/JonathanWoollett-Light/vulkano_blas"
+documentation = "https://docs.rs/vulkano_blas"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+vulkano = "0.19.0"
+vulkano-shaders = "0.19.0"
+itertools = "0.9.0"
+
+[package.metadata.docs.rs]
+rustdoc-args = [ "--html-in-header", "katex-header.html" ]
