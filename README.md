@@ -15,3 +15,7 @@ I hope perhaps this crate while at the moment extremely limited might spike some
 
 1. [Install Vulkano](https://github.com/vulkano-rs/vulkano#setup)
 2. Add `vulkano_blas = "0.1"` to `Cargo.toml`.
+
+## Docs
+
+For some reason (I do not understand) cargo cannot build the docs automatically, as such to see docs you will need to download this repo and run `cargo rustdoc --open` in the directory. 
