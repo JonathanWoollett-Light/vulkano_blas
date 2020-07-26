@@ -1,7 +1,7 @@
 # vulkano_blas
 
-- [Cargo](https://crates.io/crates/cogent)
-- [Documentation](https://docs.rs/cogent/)
+- [Cargo](https://crates.io/crates/vulkano_blas)
+- [Documentation](https://docs.rs/vulkano_blas/)
 
 ## Crate status
 
