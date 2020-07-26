@@ -1,7 +1,7 @@
 # vulkano_blas
 
 - [Cargo](https://crates.io/crates/vulkano_blas)
-- [Documentation](https://docs.rs/vulkano_blas/)
+- [Documentation](https://github.com/JonathanWoollett-Light/target/doc/vulkano_blas/index.html)
 
 ## Crate status
 
