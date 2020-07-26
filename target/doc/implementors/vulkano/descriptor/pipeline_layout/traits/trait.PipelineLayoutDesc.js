@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["vulkano_blas"] = [{"text":"impl PipelineLayoutDesc for <a class=\"struct\" href=\"vulkano_blas/sscal/struct.Layout.html\" title=\"struct vulkano_blas::sscal::Layout\">Layout</a>","synthetic":false,"types":["vulkano_blas::level_1::sscal::Layout"]},{"text":"impl PipelineLayoutDesc for <a class=\"struct\" href=\"vulkano_blas/saxpy/struct.Layout.html\" title=\"struct vulkano_blas::saxpy::Layout\">Layout</a>","synthetic":false,"types":["vulkano_blas::level_1::saxpy::Layout"]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
