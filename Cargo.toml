@@ -1,6 +1,6 @@
 [package]
 name = "vulkano_blas"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jonathan Woollett-Light <jonathanwoollettlight@gmai.com>"]
 edition = "2018"
 description = "GLSL Vulkano shaders for BLAS operations."
