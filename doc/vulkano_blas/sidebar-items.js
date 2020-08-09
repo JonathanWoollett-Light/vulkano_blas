@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["isamax","Gets index of max value in vector."],["sasum","Gets sum a vector."],["saxpy","Constant times a vector plus a vector."],["sdot","Vector dot product."],["sgemm","Matrix-matrix multiply"],["sgemv","Matrix-vector multiply."],["sscal","Scales a vector by a constant."]]});
